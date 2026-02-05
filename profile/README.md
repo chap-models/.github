@@ -1,4 +1,3 @@
-# .github
 # Community collection of Chap-compatible models
 
 This Github site contains a collection of prediction models compatible with the [Chap modelling platform](https://chap.dhis2.org/).
